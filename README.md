@@ -35,7 +35,7 @@ Blog Post
 https://www.circuitvalley.com/2026/02/fmc-linux-mipi-csi-dsi-camera-pga-zynq-ultrascale-xilinx-fpga-camera-emulation.html
  <br>
 
-<a href="https://www.youtube.com/watch?v=pUvJuOuf-3s">
+<a href="https://www.youtube.com/watch?v=oLB2qSEecds">
 <img src="https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/fpga_fmc_mipi_camera_MIPIX4_circuitvalley%20(8)%20raspberry_pi_camera_fpga23.png" alt="RFGEN" width="1000" height="380">
 </a>
 
