@@ -1,4 +1,4 @@
-# DEVEMU_FMC_MIPI_Emulator_card
+# DEVEMU FMC MIPI Emulator card
 Project Repo for FMC Card Specially Designed for MIPI emulation 
 
 - This breakout Give you 3x MIPI Connections using just HMC LPC Pins.
